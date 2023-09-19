@@ -1,2 +1,3 @@
-# login-system-using-C-using-string-
-Login system using C. This only contain strings, not file.
+# Simple login system
+Hi everyone!!
+It is a simple login system made using C.
